@@ -1,0 +1,43 @@
+# Python
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+# Virtual environments
+
+venv/
+
+.env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# ML / datasets / weights
+
+datasets/
+
+data/
+
+*.pt
+
+*.pth
+
+*.onnx
+
+# Logs
+
+*.log
+
+# Mac
+
+.DS_Store
+
+# Build
+
+dist/
+
+build/
